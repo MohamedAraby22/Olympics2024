@@ -47,3 +47,5 @@ Develop informative and visually appealing visualizations to communicate your fi
 Use charts, graphs, and tables to represent key trends and patterns.
 
 Customize visualizations to match your project's specific requirements.
+
+**Here you can see the project : https://www.linkedin.com/posts/mohamedaraby870_dataanalysis-python-powerbi-activity-7253789582872199168-N0Mf?utm_source=share&utm_medium=member_desktop
